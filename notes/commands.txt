@@ -16,3 +16,4 @@ git log --oneline
 git commit --amend
 git reset HEAD
 git reset --hard
+
