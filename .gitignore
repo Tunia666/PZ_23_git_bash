@@ -2,3 +2,13 @@
 Thumbs.db
 .vscode/
 node_modules/
+pwd
+ls
+mkdir practice &&  cd practice & touch index.html styles.css
+
+cp index.html backup/
+mv styles.css styles/main.css
+
+git status
+
+git diff --staged
