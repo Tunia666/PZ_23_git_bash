@@ -14,5 +14,5 @@ git diff
 git diff --staged
 git log --oneline
 git commit --amend
-git reset HEAD
+git reset HEADg
 git reset --hard
